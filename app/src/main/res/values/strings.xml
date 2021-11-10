@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba_2</string>
+    <string name="Continuar">Continuar</string>
+    <string name="volver">Volver</string>
+    <string name="Imagen1">Imagen1</string>
+    <string name="Imagen2">Imagen2</string>
+    <string name="Satelite">Satelite</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
